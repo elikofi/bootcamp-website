@@ -15,7 +15,12 @@
     background-color: rgb(47, 39, 95);
     transform: scale(1.05,1.05);
     transition: 0.25s;
+    border: none;
 }
 #news-letter {
     background-image: linear-gradient(to right, rgb(73, 42, 106), gray,rgb(73, 42, 106));
+}
+#btn{
+    background-color: rgb(47, 39, 95);
+    color: white;
 }
